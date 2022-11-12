@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LouieBHLu
+- 👋 Hi, I’m Mingxuan Lu @LouieBHLu
 - 👀 I’m interested in machine learning, data science.
 - 🌱 I’m currently pursuing Master of Science degree in Electrical Engineering at Columbia University in the city of New York.
 - 💞️ I’m looking to collaborate on research and industrial projects in AI/ML.
